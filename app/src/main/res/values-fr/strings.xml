@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CampusCohort09</string>
+    <string name="app_title">Campus Connect</string>
+    <string name="app_subtitle">Ressources pour les étudiants internationaux</string>
+
+    <string name="resources_section_header">Ressources du Campus</string>
+    <string name="name_categoy_lable">Catégorie %1$s</string>
+
+    <string name="resource_intl_office_name">Bureau des Étudiants Internationaux</string>
+    <string name="resource_intl_office_category">Conseil</string>
+    <string name="resource_intl_office_hours">9 h 00 - 17 h 00</string>
+
+    <string name="resource_library_name">Bibliothèque Principale</string>
+    <string name="resource_library_category">Espace d\'Étude</string>
+    <string name="resource_library_hours">7 h 00 - 23 h 00</string>
+
+    <string name="resource_veterans_name">Centre de Ressources pour les Anciens Combattants</string>
+    <string name="resource_veterans_category">Services de Soutien</string>
+    <string name="resource_veterans_hours">8 h 00 - 18 h 00</string>
+
+    <string name="last_updated_label">Dernière mise à jour : %1$s</string>
+    <string name="hours_label">Horaires : %1$s</string>
+
+    <string name="content_desc_resource_card">%1$s , %2$s , horaires %3$s</string>
+
+    <string name="updated_short_label">Mis à jour le %1$s</string>
+    <string name="fee_label">Frais : %1$s</string>
+    <string name="capacity_label">Capacité : %1$s personnes</string>
+
+    <plurals name="review_count">
+        <item quantity="one">%d avis</item>
+        <item quantity="many">%d avis</item>
+        <item quantity="other">%d avis</item>
+    </plurals>
+
+    <string name="tips_section_header">Conseils pour les Nouveaux Étudiants</string>
+    <string name="tips_section_description">Quelques conseils pour bien vous installer pendant vos premières semaines sur le campus.</string>
+
+    <string name="tip_documents_title">Gardez vos documents à portée de main</string>
+    <string name="tip_documents_description">Ayez sur vous une copie de votre passeport et votre carte d\'étudiant lorsque vous allez dans les bureaux du campus.</string>
+
+    <string name="tip_study_rooms_title">Réservez les salles d\'étude à l\'avance</string>
+    <string name="tip_study_rooms_description">Les salles de la bibliothèque sont vite prises en période d\'examens, alors pensez à réserver tôt.</string>
+
+    <string name="tip_clubs_title">Rejoignez un club étudiant</string>
+    <string name="tip_clubs_description">Les clubs sont un excellent moyen de pratiquer votre anglais et de rencontrer des gens du monde entier.</string>
+</resources>
