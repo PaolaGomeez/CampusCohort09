@@ -75,12 +75,10 @@ val sampleResource = listOf(
         fee = 0.99
     )
 )
-
 data class CampusTip(
     @param:StringRes val titleRes: Int,
     @param:StringRes val descriptionRes: Int
 )
-
 val sampleTips = listOf(
     CampusTip(
         titleRes = R.string.tip_documents_title,
@@ -108,7 +106,6 @@ class MainActivity: ComponentActivity(){
         }
     }
 }
-
 @Composable
 fun CampusConnectScreen(){
     LazyColumn(

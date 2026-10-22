@@ -1,47 +1,46 @@
 <resources>
     <string name="app_name">CampusCohort09</string>
     <string name="app_title">Campus Connect</string>
-    <string name="app_subtitle">Recursos para estudiantes internacionales</string>
+    <string name="app_subtitle">Resources for international students</string>
 
-    <string name="resources_section_header">Recursos del Campus</string>
-    <string name="name_categoy_lable">Categoría %1$s</string>
+    <string name="resources_section_header">Campus Resources</string>
+    <string name="name_categoy_lable">Category %1$s</string>
 
-    <string name="resource_intl_office_name">Oficina de Estudiantes Internacionales</string>
-    <string name="resource_intl_office_category">Asesoría</string>
+    <string name="resource_intl_office_name">International Student Office</string>
+    <string name="resource_intl_office_category">Advising</string>
     <string name="resource_intl_office_hours">9:00 AM - 5:00 PM</string>
 
-    <string name="resource_library_name">Biblioteca Principal</string>
-    <string name="resource_library_category">Espacio de Estudio</string>
+    <string name="resource_library_name">Main Library</string>
+    <string name="resource_library_category">Study Space</string>
     <string name="resource_library_hours">7:00 AM - 11:00 PM</string>
 
-    <string name="resource_veterans_name">Centro de Recursos para Veteranos</string>
-    <string name="resource_veterans_category">Servicios de Apoyo</string>
+    <string name="resource_veterans_name">Veterans Resource Center</string>
+    <string name="resource_veterans_category">Support Services</string>
     <string name="resource_veterans_hours">8:00 AM - 6:00 PM</string>
 
-    <string name="last_updated_label">Última actualización: %1$s</string>
-    <string name="hours_label">Horario: %1$s</string>
+    <string name="last_updated_label">Last updated: %1$s</string>
+    <string name="hours_label">Hours: %1$s</string>
 
-    <string name="content_desc_resource_card">%1$s , %2$s , horario %3$s</string>
+    <string name="content_desc_resource_card">%1$s , %2$s , hours %3$s</string>
 
-    <string name="updated_short_label">Actualizado %1$s</string>
-    <string name="fee_label">Tarifa: %1$s</string>
-    <string name="capacity_label">Capacidad: %1$s personas</string>
+    <string name="updated_short_label">Updated %1$s</string>
+    <string name="fee_label">Fee: %1$s</string>
+    <string name="capacity_label">Capacity: %1$s people</string>
 
     <plurals name="review_count">
-        <item quantity="one">%d reseña</item>
-        <item quantity="many">%d reseñas</item>
-        <item quantity="other">%d reseñas</item>
+        <item quantity="one">%d review</item>
+        <item quantity="other">%d reviews</item>
     </plurals>
 
-    <string name="tips_section_header">Consejos para Estudiantes Nuevos</string>
-    <string name="tips_section_description">Recomendaciones rápidas para adaptarte en tus primeras semanas en el campus.</string>
+    <string name="tips_section_header">Tips for New Students</string>
+    <string name="tips_section_description">Quick advice to help you settle in during your first weeks on campus.</string>
 
-    <string name="tip_documents_title">Ten tus documentos a la mano</string>
-    <string name="tip_documents_description">Lleva una copia de tu pasaporte y tu credencial de estudiante cuando visites las oficinas del campus.</string>
+    <string name="tip_documents_title">Keep your documents handy</string>
+    <string name="tip_documents_description">Carry a copy of your passport and your student ID when you visit campus offices.</string>
 
-    <string name="tip_study_rooms_title">Reserva salas de estudio con tiempo</string>
-    <string name="tip_study_rooms_description">Las salas de estudio de la biblioteca se llenan rápido en semana de exámenes, así que aparta la tuya con anticipación.</string>
+    <string name="tip_study_rooms_title">Book study rooms early</string>
+    <string name="tip_study_rooms_description">Library study rooms fill up fast during exam weeks, so reserve yours ahead of time.</string>
 
-    <string name="tip_clubs_title">Únete a un club estudiantil</string>
-    <string name="tip_clubs_description">Los clubes son una gran forma de practicar tu inglés y conocer personas de todo el mundo.</string>
+    <string name="tip_clubs_title">Join a student club</string>
+    <string name="tip_clubs_description">Clubs are a great way to practice your English and meet people from around the world.</string>
 </resources>
